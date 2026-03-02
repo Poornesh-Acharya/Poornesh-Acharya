@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a BCA student <br>I am Lerning python<br>I know about Java C HTML CSS JavaScript<br> <br>
+I am a BCA student <br>I am Lerning python<br>I know about Java C HTML CSS JavaScript<br> <br>
 
 
 ## 🌐 Socials:
